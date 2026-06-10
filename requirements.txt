@@ -1,9 +1,7 @@
 numpy
-ipywidgets
-display
-matplotlib.pyplot
-solve_ivp
+scipy
 sympy
-Markdown
-HTML
-FuncAnimation
+matplotlib
+ipywidgets
+ipython
+markdown
