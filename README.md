@@ -5,6 +5,6 @@ Die Datei "requirements.txt" ist wichtig für binder, da dort die nötigen Paket
 
 Bearbeitet werden kann das Notebook in Google Colab.
 
-Die Datei kann [hier](https://hub.bids.mybinder.org/user/physikdidaktiku-pologie-quanten-k3sixpk3/doc/tree/Von_echten_Federn_zur_Topologie.ipynb) ausgeführt werden. 
+Die Datei kann [hier](https://mybinder.org/v2/gh/PhysikDidaktikUniAugsburg/Federn-Topologie-Quanten/main?urlpath=%2Fdoc%2Ftree%2FVon_echten_Federn_zur_Topologie.ipynb) ausgeführt werden. 
 
-(Link zum Kopieren: https://hub.bids.mybinder.org/user/physikdidaktiku-pologie-quanten-k3sixpk3/doc/tree/Von_echten_Federn_zur_Topologie.ipynb)
+(Link zum Kopieren: https://hub.bids.mybinder.org/user/physikdidaktiku-pologie-quanten-k3sixpk3/doc/tree/Von_echten_Federn_zur_Topologie.ipynb
